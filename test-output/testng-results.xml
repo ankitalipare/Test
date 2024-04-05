@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="18" total="19" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T16:26:42 IST" name="Default suite" finished-at="2024-04-04T16:26:55 IST" duration-ms="13230">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T16:26:42 IST" name="Default test" finished-at="2024-04-04T16:26:55 IST" duration-ms="13230">
+      <class name="TestCases.TestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TestCase@33fe57a9]" started-at="2024-04-04T16:26:42 IST" name="setup" finished-at="2024-04-04T16:26:48 IST" duration-ms="5828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddToCartProductPOM()[pri:0, instance:TestCases.TestCase@33fe57a9]" started-at="2024-04-04T16:26:48 IST" name="verifyAddToCartProductPOM" finished-at="2024-04-04T16:26:55 IST" duration-ms="6719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartProductPOM -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.TestCase@33fe57a9]" started-at="2024-04-04T16:26:55 IST" name="tearDown" finished-at="2024-04-04T16:26:55 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
